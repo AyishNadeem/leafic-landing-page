@@ -21,10 +21,10 @@ export function SiteFooter() {
         
         {/* Refined CTA */}
         <a
-          href="#download"
+          href="https://apps.apple.com/app/leafic/id6772236431"
           className="mt-10 inline-flex items-center gap-3 border-2 border-[#2D4F1E] bg-[#E07A5F] px-8 py-4 font-['Press_Start_2P'] text-[10px] text-white shadow-[6px_6px_0px_0px_#2D4F1E] transition-all hover:-translate-y-1 active:translate-y-1 active:shadow-none"
         >
-          <span>START YOUR GARDEN</span>
+          <span>DOWNLOAD LEAFIC</span>
         </a>
       </div>
 

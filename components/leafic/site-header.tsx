@@ -5,8 +5,8 @@ import { PixelPlant } from "./pixel-plant"
 const GARDEN_FEATURES = [
   { 
     title: "Full Diagnosis", 
-    caption: "10-second check: Species, health, and a custom care plan tailored to your skill level.", 
-    shape: "monstera" 
+    caption: "Get a specific diagnosis for your plant's unique situation, not just generic care tips.",
+    shape: "monstera"
   },
   { 
     title: "Quick Identify", 
